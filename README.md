@@ -1,4 +1,4 @@
-# Projects from MCS 360 - Introduction to Data Structures
+# Projects from college courses
 
 by Isaac Young
 
